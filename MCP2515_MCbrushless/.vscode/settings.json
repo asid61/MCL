@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "interrupts.h": "c",
+        "systick.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "cust_util.h": "c",
+        "dma.h": "c",
+        "flash.h": "c",
+        "mcp2515.h": "c",
+        "canstack.h": "c",
+        "pwm.h": "c",
+        "brushless_drive.h": "c"
+    }
+}
