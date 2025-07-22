@@ -1,0 +1,21 @@
+Circuit: * C:\GrabCAD\kicad_projects\motor_controller\MCL-102 IQ100 brushless\Sim\Supplyvoltage.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Nov 26 23:12:46 2021
+Total elapsed time: 0.555 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 83160
+traniter = 83116
+tranpoints = 26220
+accept = 20169
+rejected = 6051
+matrix size = 31
+fillins = 25
+solver = Normal
+Matrix Compiler1: 3.06 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+
